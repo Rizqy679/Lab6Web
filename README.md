@@ -12,3 +12,8 @@ Instruksi praktikum
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org 
 
 ![alt text](https://github.com/Rizqy679/Lab6Web/blob/main/prak%206%202.jpg)
+
+Kesimpulan: Layout ini sederhana, responsif, dan cocok untuk website berbasis informasi, seperti portal berita, blog, atau situs universitas. Desain ini memprioritaskan navigasi yang mudah, informasi yang terstruktur, dan estetika minimalis.
+
+Hasil Bootstrapnya
+
