@@ -10,3 +10,5 @@ Instruksi praktikum
 4. Buat struktur dasar dari dokumen HTML.
 5. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org 
+
+![alt text](https://github.com/Rizqy679/Lab6Web/blob/main/prak%206%202.jpg)
