@@ -17,3 +17,4 @@ Kesimpulan: Layout ini sederhana, responsif, dan cocok untuk website berbasis in
 
 Hasil Bootstrapnya
 
+![alt text](https://github.com/Rizqy679/Lab6Web/blob/main/prak%206.jpg)
